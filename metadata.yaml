@@ -1,0 +1,27 @@
+_repo: Official-Report-of-the-Exploration-of-the-Queen-Charlotte-Islands-for-the-Government-of-Britis__6596
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chittenden, Newton H.
+    alias: Chittenden, Newton H. (Newton Henry)
+    birthdate: 1840
+    deathdate: 1925
+    gutenberg_agent_id: '2107'
+    url: http://www.gutenberg.org/2009/agents/2107
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haida Indians'
+- !lcc 'F1001'
+- !lcsh 'Queen Charlotte Islands (B.C.)'
+- GITenberg
+title: Official Report of the Exploration of the Queen Charlotte Islands for the Government
+  of British Columbia
+url: http://www.gutenberg.org/ebooks/6596
